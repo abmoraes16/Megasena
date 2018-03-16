@@ -1,0 +1,10 @@
+C:\Users\41346828865\Desktop\MegaSena\bin\Debug\netcoreapp2.0\MegaSena.deps.json
+C:\Users\41346828865\Desktop\MegaSena\bin\Debug\netcoreapp2.0\MegaSena.runtimeconfig.json
+C:\Users\41346828865\Desktop\MegaSena\bin\Debug\netcoreapp2.0\MegaSena.runtimeconfig.dev.json
+C:\Users\41346828865\Desktop\MegaSena\bin\Debug\netcoreapp2.0\MegaSena.dll
+C:\Users\41346828865\Desktop\MegaSena\bin\Debug\netcoreapp2.0\MegaSena.pdb
+C:\Users\41346828865\Desktop\MegaSena\obj\Debug\netcoreapp2.0\MegaSena.csproj.CoreCompileInputs.cache
+C:\Users\41346828865\Desktop\MegaSena\obj\Debug\netcoreapp2.0\MegaSena.AssemblyInfoInputs.cache
+C:\Users\41346828865\Desktop\MegaSena\obj\Debug\netcoreapp2.0\MegaSena.AssemblyInfo.cs
+C:\Users\41346828865\Desktop\MegaSena\obj\Debug\netcoreapp2.0\MegaSena.dll
+C:\Users\41346828865\Desktop\MegaSena\obj\Debug\netcoreapp2.0\MegaSena.pdb
